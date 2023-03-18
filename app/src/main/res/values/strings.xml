@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_id">enter id</string>
+    <string name="enter_age">enter age</string>
+    <string name="enter_name">enter name</string>
+    <string name="save">Save</string>
+    <string name="show_old_users">show old users</string>
+    <string name="add_user">add user</string>
+    <string name="user_name">user name</string>
+    <string name="user_number">user number</string>
+    <string name="user_address">user address</string>
+    <string name="textview">TextView</string>
+    <string name="name">name :</string>
+    <string name="number">number :</string>
+    <string name="address">address :</string>
+    <string name="delete">delete</string>
+</resources>
